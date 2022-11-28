@@ -41,8 +41,9 @@ THEN I exit the application, and the HTML is generated
 
 The following image shows a mock-up of the generated HTML’s appearance and functionality:
 
-[View Mock-Up](https://drive.google.com/file/d/1AhF9xZ28bGfiR99-kUZR326Ww1RRAjBN/preview)
+[View Mock-Up online](https://drive.google.com/file/d/1AhF9xZ28bGfiR99-kUZR326Ww1RRAjBN/preview)
 
+[View Mock-Up in Repo](https://github.com/lilianaba/challengew10/blob/main/Assets/ChallengeW10.webm)
 
 
 ## Getting Started
